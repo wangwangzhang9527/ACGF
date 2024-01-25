@@ -1,5 +1,5 @@
 # Deep Single Image Deraining using An Asymmetric Cycle Generative and Adversarial Framework
-Wei Liu, Caiwang Zhang,  Cheng Chen, Xiaoyu Huang, Minghui Li
+Wei Liu*, Caiwang Zhang,  Cheng Chen, Xiaoyu Huang, Minghui Li
 
 <!-- [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](http://arxiv.org/abs/2302.09554) -->
 <hr />
