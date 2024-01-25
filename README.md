@@ -12,8 +12,8 @@ Moreover, to improve the translational capacity of C2R and the diversity of mode
 Extensive experiments on benchmark rain-fog and rain datasets show that ACGF outperforms state-of-the-art deraining methods. We also conduct defogging performance evaluation experiments to further demonstrate the effectiveness of ACGF.* 
 
 ## Our Rain-fog dataset
-You can download above datasets from [here](https://github.com/hongwang01/Video-and-Single-Image-Deraining#datasets-and-discriptions)
-You can view a portion of the data [here](https://github.com/hongwang01/Video-and-Single-Image-Deraining#datasets-and-discriptions)
+You can download above datasets from [here](https://github.com/hongwang01/Video-and-Single-Image-Deraining#datasets-and-discriptions).
+You can view a portion of the data [here](https://github.com/hongwang01/Video-and-Single-Image-Deraining#datasets-and-discriptions).
 
 ## Training and Evaluation
 
