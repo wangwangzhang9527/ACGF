@@ -1,11 +1,7 @@
 # Deep Single Image Deraining using An Asymmetric Cycle Generative and Adversarial Framework
 Wei Liu*, Caiwang Zhang,  Cheng Chen, Xiaoyu Huang, Minghui Li
 
-<!-- [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](http://arxiv.org/abs/2302.09554) -->
-<hr />
-
-
-> **Abstract:** * In reality, rain and fog often coexist, leading to a significant decline in the clarity and quality of scene images.
+> **Abstract:** * In reality, rain and fog are often present at the same time, which can greatly reduce the clarity and quality of the scene image.
 However, most unsupervised single image deraining methods primarily concentrate on removing rain streaks while disregarding the presence of fog, which often leads to low-quality deraining performance. 
 Moreover, these methods generate samples that are too similar and lack diversity, resulting in poor performance when dealing with complex rain scenes. 
 To address the above issues, we propose a novel Asymmetric Cycle Generative and Adversarial framework (ACGF) for single image deraining that trains on both synthetic and real rainy images while simultaneously capturing both rain streaks and fog features. 
@@ -17,6 +13,7 @@ Extensive experiments on benchmark rain-fog and rain datasets show that ACGF out
 
 ## Our Rain-fog dataset
 You can download above datasets from [here](https://github.com/hongwang01/Video-and-Single-Image-Deraining#datasets-and-discriptions)
+You can view a portion of the data [here](https://github.com/hongwang01/Video-and-Single-Image-Deraining#datasets-and-discriptions)
 
 ## Training and Evaluation
 
