@@ -13,7 +13,7 @@ Extensive experiments on benchmark rain-fog and rain datasets show that ACGF out
 ![image](https://github.com/wangwangzhang9527/ACGF/blob/main/figures/architecture.png)
 
 ## Our Rain-fog dataset
-You can download Our Rain-fog dataset from [here](https://pan.baidu.com/s/18z2LJbpnq4Ab89JytFli3g) (password:s265).
+You can download our Rain-fog dataset from [here](https://pan.baidu.com/s/18z2LJbpnq4Ab89JytFli3g) (password:s265).
 You can view a portion of the images [here](https://github.com/wangwangzhang9527/ACGF/blob/main/figures/dataset).
 
 ## Training and Evaluation
