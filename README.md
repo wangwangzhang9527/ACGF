@@ -13,7 +13,7 @@ Extensive experiments on benchmark rain-fog and rain datasets show that ACGF out
 ![image](https://github.com/wangwangzhang9527/ACGF/blob/main/figures/architecture.png)
 
 ## Our Rain-fog dataset
-You can download above datasets from [here](https://github.com/hongwang01/Video-and-Single-Image-Deraining#datasets-and-discriptions).
+You can download above datasets from [here](https://pan.baidu.com/s/18z2LJbpnq4Ab89JytFli3g). (password:s265)
 You can view a portion of the images [here](https://github.com/wangwangzhang9527/ACGF/blob/main/figures/dataset).
 
 ## Training and Evaluation
@@ -22,4 +22,12 @@ The complete code will be provided after the article is accepted.
 
 ## Citations
 If our code helps your research or work, please consider citing our paper.
+```
+@inproceedings{Liu2023DeepSI,
+  title={Deep Single Image Deraining using An Asymetric Cycle Generative and Adversarial Framework},
+  author={Wei, Liu and Caiwang, Zhang and Cheng, Chen and Xiaoyu, Huang and Minghui, Li},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:258823257}
+}
+```
 
