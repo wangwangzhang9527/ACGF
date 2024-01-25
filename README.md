@@ -1,4 +1,5 @@
 # Deep Single Image Deraining using An Asymmetric Cycle Generative and Adversarial Framework
+Wei Liu, Caiwang Zhang,  Cheng Chen, Xiaoyu Huang, Minghui Li
 
 <!-- [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](http://arxiv.org/abs/2302.09554) -->
 <hr />
@@ -14,7 +15,8 @@ In rain-fog feature extraction path, to better characterize the rain-fog fusion 
 Moreover, to improve the translational capacity of C2R and the diversity of models, we design a rain-fog feature decoupling and reorganization network (RFDR) by embedding a rainy image degradation model and a mixed discriminator to preserve richer texture details in synthetic rain conversion path.
 Extensive experiments on benchmark rain-fog and rain datasets show that ACGF outperforms state-of-the-art deraining methods. We also conduct defogging performance evaluation experiments to further demonstrate the effectiveness of ACGF.* 
 
-## Rain-fog dataset
+## Our Rain-fog dataset
+You can download above datasets from [here](https://github.com/hongwang01/Video-and-Single-Image-Deraining#datasets-and-discriptions)
 
 ## Training and Evaluation
 
