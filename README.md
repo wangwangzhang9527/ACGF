@@ -10,10 +10,11 @@ The former consists of parallel rain removal path and rain-fog feature extractio
 In rain-fog feature extraction path, to better characterize the rain-fog fusion feature, we employ an ARFE to exploit the self-similarity of global and local rain-fog information by learning the spatial feature correlations. 
 Moreover, to improve the translational capacity of C2R and the diversity of models, we design a rain-fog feature decoupling and reorganization network (RFDR) by embedding a rainy image degradation model and a mixed discriminator to preserve richer texture details in synthetic rain conversion path.
 Extensive experiments on benchmark rain-fog and rain datasets show that ACGF outperforms state-of-the-art deraining methods. We also conduct defogging performance evaluation experiments to further demonstrate the effectiveness of ACGF.* 
+![image](https://github.com/wangwangzhang9527/ACGF/blob/main/figures/architecture.png)
 
 ## Our Rain-fog dataset
 You can download above datasets from [here](https://github.com/hongwang01/Video-and-Single-Image-Deraining#datasets-and-discriptions).
-You can view a portion of the data [here](https://github.com/hongwang01/Video-and-Single-Image-Deraining#datasets-and-discriptions).
+You can view a portion of the images [here](https://github.com/wangwangzhang9527/ACGF/blob/main/figures/dataset).
 
 ## Training and Evaluation
 
