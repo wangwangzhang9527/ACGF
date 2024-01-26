@@ -20,6 +20,9 @@ You can view a portion of the images [here](https://github.com/wangwangzhang9527
 
 The complete code will be provided after the article is accepted.
 
+## Acknowledgement
+This code is inspired by [DerainCycleGAN](https://github.com/OaDsis/DerainCycleGAN).
+
 ## Citations
 If our code helps your research or work, please consider citing our paper.
 ```
